@@ -11,13 +11,10 @@ This robotic platform is equipped with four omni-directional wheels and an Raspb
 - Due to the specialized wheels, the robot can move in any direction without the need for turning or rotating. This capability makes it ideal for tasks in environments with static and dynamic obstacles, as well as crowded areas.
 
 ## Images
-
+- Omni-directional bot
 <img src="images/omnibot.jpg" width="515">
-<p align = "left">
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Omni-directional bot
-</p>
 
+
+- Omni-directional wheels
 <img src="images/omniwheel.png" width="250">
-<p align = "left">
-&ensp;&ensp;&ensp;Omni-directional wheels
-</p>
+
