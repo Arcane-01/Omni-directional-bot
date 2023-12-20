@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This robotic platform is equipped with four omni-directional wheels and an Raspberry Pi control board, designed to provide mobility in various environments.
+This robotic platform is equipped with four omni-directional wheels and a Raspberry Pi control board, designed to provide mobility in various environments.
 
 ## Features
 
